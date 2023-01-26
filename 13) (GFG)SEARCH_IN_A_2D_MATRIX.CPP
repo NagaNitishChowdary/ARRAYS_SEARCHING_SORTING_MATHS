@@ -2,6 +2,8 @@
 // PROBLEM LINK --- https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 // PROBLEM LINK --- https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531
 
+// IT ALSO WORKS FOR LEETCODE
+
 #include<bits/stdc++.h> 
 using namespace std;
 
